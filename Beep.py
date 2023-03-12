@@ -1,4 +1,4 @@
-# in the name of god | Github : github.com/sardarcybery | Telegram : t.me/SardarCybery
+# in the name of god | Github : github.com/Arbabpouri | Telegram : t.me/SardarCybery
 
 from random import randint
 from winsound import Beep
